@@ -1,0 +1,33 @@
+*{
+    font-family: "Nunito", sans-serif;
+}
+i{
+    display: inline-block;
+  margin-right:1rem;
+  margin-top: 0.7rem;
+  color: grey;
+}
+a:hover{
+    text-decoration: underline !important;
+}
+.hide, .card-title, .card-text, .navbarhide{
+    visibility: hidden;
+}
+li{
+    list-style: none !important;
+}
+.topbar{
+    background-color: black !important;
+}
+.card{
+    background-color: rgb(233, 232, 232);
+}
+.hover{
+   visibility: hidden;
+}
+.show{
+    visibility: visible;
+}
+.mynav{
+    opacity:0.3;
+}
